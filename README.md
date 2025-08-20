@@ -3,3 +3,5 @@ What i learned today
 hello
 NEW UPDATE
 CG HAI
+HELLOW NEW
+HELLO NUMBER
